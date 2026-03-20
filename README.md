@@ -14,11 +14,11 @@ Using the np.linalg.solve(), we can find the solutions.
 ### Step 4: 
 End the program
 ## Program:
-import numpy as np
+```import numpy as np
 A=[[5,-3,-10],[2,2,-3],[-3,-1,5]]
 B=np.array([-9,4,-1])
 C=np.linalg.solve(A,B)
-print(C)
+print(C)```
 ## Output:
 <img width="1319" height="346" alt="Screenshot 2026-03-20 224721" src="https://github.com/user-attachments/assets/a7fb4fae-86a9-44cf-aa57-2539cd8388b0" />
 
